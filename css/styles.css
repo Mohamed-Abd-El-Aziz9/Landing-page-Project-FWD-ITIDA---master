@@ -84,13 +84,6 @@ section {
     color: #000;
 }
 
-.navbar__menu .menu__link:hover {
-    cursor: pointer;
-    background: rgba(7, 5, 55, .7);
-    color: rgb(255, 0, 0, .7);
-    transition: ease .7s all;
-
-}
 
 /* Header Styles */
 .navbar__menu .active-link {
